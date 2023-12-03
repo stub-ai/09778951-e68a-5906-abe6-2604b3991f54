@@ -1,11 +1,11 @@
 package com.example
 
-import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Test
+import org.junit.Test
+import kotlin.test.assertEquals
 
 class MainTest {
     @Test
     fun testMain() {
-        assertEquals(2, 1 + 1)
+        assertEquals("Hello, Kotlin!", "Hello, Kotlin!")
     }
 }
