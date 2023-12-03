@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create an android app using kotlin and clean architecture with modules","md5":"d5b86723fba361e4928467e014ad416f"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create an android app using kotlin and clean architecture with modules","md5":"d5b86723fba361e4928467e014ad416f"},{"prompt":"create a simple Kotlin project","md5":"87f7934b721966e173fcca4d68dbfc3f"}]}
